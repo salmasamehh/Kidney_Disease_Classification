@@ -7,7 +7,7 @@ and efficient method to classify CT kidney images, which
 can assist radiologists and clinicians in making accurate
 diagnoses and treatment decisions.
 # Our Goal
-The CT kidney classification project is aimed at developing a machine
+The CT kidney classification project is aimed at developing a deep
 learning model that can classify CT scan images of the kidneys into
 different categories, such as normal or abnormal, or into various types
 of kidney diseases based on visual features present in the images.
