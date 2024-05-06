@@ -18,8 +18,7 @@ already diagnosed with having a kidney tumor, cyst, normal or stone finding.
 Our dataset contains 12,446 unique data within it in which the cyst
 contains 3,709, normal 5,077, stone 1,377, and tumor 2,283.
 CT kidney Dataset:
-(https://www.kaggle.com/datasets/nazmul0087/c
-t-kidney-dataset-normal-cyst-tumor-and-stone ).
+https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone?rvi=1
 # Summary
 "Classification of Kidney Disease Images using VGG16". This project utilizes deep learning technology to improve the diagnosis of kidney
 diseases. The model was trained using CT datasets related to kidney diseases and
