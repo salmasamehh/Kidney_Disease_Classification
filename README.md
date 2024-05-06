@@ -21,6 +21,8 @@ CT kidney Dataset:
 https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone?rvi=1
 # Summary
 "Classification of Kidney Disease Images using VGG16". This project utilizes deep learning technology to improve the diagnosis of kidney
+![Uploading image.png…]()
+
 diseases. The model was trained using CT datasets related to kidney diseases and
 VGG-16 technology to classify kidney disease images.
 Moreover, I have deployed the model in an easy-to-use GUI to assist the user in
